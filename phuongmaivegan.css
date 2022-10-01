@@ -1,4 +1,10 @@
 .container {
-  min-width: 128px;
-  min-height: 128px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+#trang-2 {
+    margin-top: 30px;
 }
